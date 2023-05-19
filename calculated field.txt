@@ -1,0 +1,1 @@
+{FIXED [Employee]: MIN(IF [Date] == {FIXED [Employee]: MAX([Date])} THEN [Area] END)}
